@@ -22,6 +22,11 @@ body {
     grid-column-end: -1;
     grid-row-start: 1;
     grid-row-end: 1;
+
+    color:#0bff50;
+    font-size: x-large;
+    padding: 10px 0px 5px 20px ;
+    font-weight: bold;
   }
   
   /* Box 1 */
@@ -162,12 +167,18 @@ body {
   grid-column-end: 11;
   grid-row-start: 8;
   grid-row-end: 16;
-  padding: 0px 20px 0px 20px ;
+  padding: 0px 40px 0px 40px ;
 }
 
 .box7 h2{
   color:#0bff50;
   font-size: xx-large;
+}
+
+.box7 table{
+  color: white;
+  width: auto;
+  font-size: 30px;
 }
 
 /* Box 8 */
